@@ -364,8 +364,8 @@
 
 .signup-box3 {
   display: flex;
-  width: 120vh;  /* Make it take the full width of the modal */
-  height: auto;  /* Allow height to grow based on content */
+  width: 120vh;  
+  height: auto;  
   gap: 50px;
   padding: 50px;
   border: 13px solid black;
@@ -569,7 +569,7 @@
     .last-section-paragraph {
       width: auto;
       margin-top: 20px; 
-      /* padding: 0px 30px;  */
+      
     }
     .last-section-button{
       font-size: 19px;
@@ -639,8 +639,8 @@
     .modal-dialog {
       top: 0%;         
       left: 0%;  
-      max-width: 100%;  /* Prevent overflow */
-      height: auto;  /* Adjust height to fit the content */
+      max-width: 100%;  
+      height: auto;  
     }
   
     .signup-box3 {
